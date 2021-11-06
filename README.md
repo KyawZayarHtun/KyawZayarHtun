@@ -1,4 +1,3 @@
-![Kyaw Zayar Htun](https://github.com/KyawZayarHtun/KyawZayarHtun/blob/main/Profile.jpg)
 <h1 align="center">Hi 👋, I'm Kyaw Zayar Tun</h1>
 <h3 align="center">Web Developer</h3>
 
