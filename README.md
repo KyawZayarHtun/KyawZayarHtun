@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **kyawzayar.ht@gmail.com**
 
-[![Kyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawZayarHtun)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawZayarHtun&show_icons=true&theme=tokyonight)
+
 
 
 <h3 align="left">Connect with me:</h3>
