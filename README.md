@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kyaw Zayar Tun</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React, Api**
+- 🌱 I’m currently learning **Microservice, Spring Web Flux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KyawZayarHtun](https://github.com/KyawZayarHtun)
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Java, Spring**
 
 - 📫 How to reach me **kyawzayar.ht@gmail.com**
 
